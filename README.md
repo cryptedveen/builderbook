@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/builderbook/builderbook) 
+
 ## Builder Book
 
 Open source web app to publish documentation or books.
